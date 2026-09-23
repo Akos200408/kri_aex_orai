@@ -191,5 +191,5 @@ A projekt egy egyszerű ROS 2 publisher–subscriber kommunikációt mutat be. A
 
 A rendszer sikeresen lefordítható és futtatható ROS 2 Humble környezetben.
 
-##Készítette
+## Készítette
 Kristóf Ákos - AEXBRW
