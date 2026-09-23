@@ -190,3 +190,6 @@ Ebben a verzióban a rendszer páratartalommal és UV-indexszel bővült.
 A projekt egy egyszerű ROS 2 publisher–subscriber kommunikációt mutat be. A `sensor_node` három különböző adatot publikál, a `monitor_node` pedig ezeket a megfelelő topicokról fogadja.
 
 A rendszer sikeresen lefordítható és futtatható ROS 2 Humble környezetben.
+
+##Készítette
+Kristóf Ákos - AEXBRW
