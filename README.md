@@ -89,7 +89,7 @@ Sikeres fordítás esetén:
 ```text
 Finished <<< temperature_monitor
 Summary: 1 package finished
-```
+``
 
 ## Futtatás
 
@@ -127,6 +127,14 @@ A node a kapott adatokat külön-külön kiírja:
 Temperature: 25.5 C
 Humidity: 48.0 %
 UV index: 3.2
+```
+
+## Indítás launch fájllal
+
+A két node egyszerre is elindítható a launch fájl segítségével:
+
+```bash
+ros2 launch temperature_monitor temperature_monitor.launch.py
 ```
 
 ## Topicok ellenőrzése
