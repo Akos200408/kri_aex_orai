@@ -137,6 +137,10 @@ A két node egyszerre is elindítható a launch fájl segítségével:
 ros2 launch temperature_monitor temperature_monitor.launch.py
 ```
 
+### Launch futás közben
+
+![Launch futás közben](screenshots/launch_test.png)
+
 ## Topicok ellenőrzése
 
 Az elérhető topicok megtekintése:
